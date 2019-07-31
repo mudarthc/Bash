@@ -29,4 +29,5 @@ for example :
 # Run Script 
 
 1. first download the files in this repo 
-2. 
+2. make script executable `chmod +x Project.sh`
+3. enter `./Project.sh`
